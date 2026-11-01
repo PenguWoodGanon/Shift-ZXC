@@ -1,1 +1,15 @@
+-------------------------------------------------Devlog 1 - November 1, 2026-------------------------------------------------
 
+Hello, person reading this! This is my first devlog for Shift ZXC! This is a way for me to keep track of what I did, and for
+you to understand my thought process! (Also this make me feel famous :3)
+
+Once the prompt came out and I saw "Shift", I was like "Hwaaaaaaat?"`, and thought it would be like 3D, or Winter, or Top-Down or
+something. I looked at the prompt and immediately thought. "The Shift Key". Now whenever I make a project, I NEED a name.
+So I really wanted to include "Shift" in the name of my game. I then looked down at my keyboard and there is was: Shift ZXC. 
+The 3 letters to the left of the shift key. I then decided on the name and started brainstorming. I ended up deciding on a 
+flappy bird style game where you use the shift key to jump. I created an itch page, made it a draft, decided on a wicked font,
+made some art for the title and banner, and created the repository, as it was needed for submission of the game. I needed some
+rest for the day, so that's all I did. (Plus some work on my notion planning page)
+
+More to come later in the month!
+(Does anyone actually read these?)
